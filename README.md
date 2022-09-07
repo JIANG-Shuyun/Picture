@@ -1,1 +1,1 @@
-# Pictrue
+# Picture
